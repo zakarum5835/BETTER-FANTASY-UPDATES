@@ -1,0 +1,59 @@
+A New Update has been released! - Ver06!
+
+MODPACK UPDATE CHECKER BUTTON WITH EVERY CHANGELOGS
+A new button in main screen has been added where you can read every changelog.
+
+Fixes and Changes:
+- Updated Mods
+- Added a New Button in Menuscreen - Join in my Discord Server!
+- Added Tooltip texts in these buttons - Create, Language and Accessibility
+- Added a Splashtext in Menuscreen - Stay Enchanted!
+- Fixed Lantern Texture
+- Disabled Uncrafting Table, since it causes duplication bugs (Twilight Forest)
+- Removed Enderite CJ Edition Mod, which causes crash near one of Moog's Structure and the corruption of the world
+- Removed FTB Quests Optomizer, it was really slow when completing a task/questline
+- Legendary Monsters moved to Chapter V: End-Game
+
+Added Mods:
+- Shoulder Surfing: Iron's Spells Integration
+- Plushie Buddies
+- FTB Chunks (NeoForge)
+- CraftTweaker
+- Guard Villagers
+- ClientCrafting
+- DoubleDoors
+- Farmers Structures
+- [Let's Do] API
+- Villages&Pillages
+- Twilight's Flavors & Delight
+- FTB Essentials
+- FTB Ranks
+- Distraction Free Recipes (EMI / REI / JEI)
+- Friends&Foes (Forge/NeoForge)
+- All The Tweaks
+- All the Wizard Gear
+- FTB Ultimine (Forge)
+- Shoulder Surfing Ultimine
+- Mythic Botany
+
+Removed Mods:
+- Enderite CJ Edition Mod (no longer needed)
+- FTB Quests Optomizer (no longer needed)
+- 
+
+Added Quests:
+- Legendary Monsters: The Obliterator Quest
+- Better Nether
+- Mine Cells
+- The Twilight Forest
+- BetterEnd
+- AllTheModium (It finishes at Unobtainium Tier for now, Alloy will be added soon)
+- 
+
+Added Resource Pack:
+- Torches Reimagened
+- Animated And Emissive: Ice and Fire and Spartan Weaponry
+
+Removed Resource Pack:
+- Vanilla Experience+
+- Slim Fire
