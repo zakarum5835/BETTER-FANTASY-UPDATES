@@ -4,6 +4,18 @@
   "hotfixesFormat": null,
   "versions": [
     {
+      "id": "Ver02",
+      "releasedAt": 1768324681000
+    },
+    {
+      "id": "Ver03",
+      "releasedAt": 1769361481000
+    },
+    {
+      "id": "Ver04",
+      "releasedAt": 1769707081000
+    },
+    {
       "id": "Ver05",
       "releasedAt": 1770398281000
     },
