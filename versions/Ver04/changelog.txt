@@ -1,0 +1,44 @@
+Fixes and Changes:
+- Fixed Roll command, you can open Emote Wheel with F12
+- Removed all Nether Ruined Portals (You can exclusive find Hopo Ruined Portals in every biome)
+- Replaced BetterEnd-4.0.11 (Fabric version) with BetterEnd-20.0.3
+- Replaced bclib-3.0.14 (Fabric version) with BClib-20.0.2
+- Removed Even Better Nether (replaced with BetterNether)
+- Temporarily removed True Ending Ender Dragon Overhaul (this was causing the dragon to insta-die upon spawning) Replaced with Savage Ender Dragon
+- Improved Menu and Load screens
+
+Added Quests:
+- Applied Energistics 2
+- Mowzie's
+- Storage (not finished yet, it will be completed in Ver05)
+
+Added Mods:
+- Better Climbing
+- Configured by MrCrayFish
+- Lithostitched
+- AllTheLeaks (Memory Leak Fixes)
+- Item Filters
+- Fantasy's Furniture
+- End Villager Outpost
+- BetterNether
+- BetterEnd Forge by Raijin2312
+- Enderman Overhaul
+- Immersive UI
+- Savage Ender Dragon [Fabric/Forge]
+- Dynamic FPS
+- SuperMartijn642's Core Lib
+- FTB Filter System
+- FTB Quests Optomizer
+- Better chunk Loading [Forge/Fabric]
+- Chunk Sending [Forge/Fabric]
+- MEGA Cells
+- AEInfinityBooster
+- AE Additions - ExtraCells2 Fork
+- Perception
+- Mowzie's Mob Respawner
+
+Removed Mods:
+- True Ending Ender Dragon Overhaul
+
+Added Shaders:
+- Visual Vibrance (for low-end pc)
