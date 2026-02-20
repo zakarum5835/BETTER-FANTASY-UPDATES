@@ -1,0 +1,24 @@
+Fixes:
+Fixed essential social button on menu screen, so you can invite/message with your friend(s)
+Removed Worn Notebook when you create a world - You can earn the book by starting the first Ars Nouveau Quest
+Removed Runic Grimoire Book when you create a world - You can earn the book by starting the first Simply Sword Quest
+
+Changes:
+Added Etheria Botania Creation Mod
+Added Ruined Aether Portals (can be found in Overworld and Aether dimension)
+Added Trash Item slot
+Added Ars Energistique
+Added Applied Energistics 2
+Added Quests - Quest chapters will be released alongside every modpack update.
+Removed Better Third Person and replaced with Shoulder Surfing Reloaded
+
+Added Quests:
+- Welcome!
+- The Beginning
+- When Dungeons Arise
+- Mutant Monsters
+- End Eyes
+- Aether
+- Armor of the Ages
+
+WIP
