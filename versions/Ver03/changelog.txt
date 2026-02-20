@@ -1,0 +1,65 @@
+Fixes and Changes:
+- You can open Etheria Skill screen with key "O" without using the book
+- Removed Witherstorm spawn platform when you create a world
+
+Added mods:
+- Aquamirae x Better Combat compatibility
+- Cataclysm & Better Combat compatibility
+- Cataclysm: Spellbooks & Better Combat compatibility
+- Particular Reforged
+- KubeJS Mystical Agriculture
+- HT's Treechop
+- Fancy Toasts Better Advancements
+- Ice and Fire Patcher
+- Even Better Nether
+- MineCells - Dead Cells Mod
+- Fantasy Weapons/Armors
+- Let Sleeping Dogs Lie (Forge)
+- Spark
+- FTB XMod Compat
+- MmmMmmMmmMmm (Target Dummy)
+- Packet Fixer
+- Fast Workbench
+- Fast Async World Save
+- Boss Music Mod (For Wither and Ender Dragon)
+- Twilight Boss Music
+- First Person Model
+- Cracker's Wither Storm Mod
+- Wither Storm Combat
+- Wither: Reincarnated
+- Cinematic Cataclysm
+- Iron's Spells 'n Spellbooks Dynamic Skill Trees
+- Neko's Enchanted Books
+- Bridging Mod
+
+Removed Mods:
+- Falling Tree / Replaced with HT's TreeChop
+- Removed Advancement Plaques / Replaced with Fancy Toasts Better Advancements
+
+Removed Resource Packs:
+KrisKringle's Lush GUI
+
+Added Resource Packs:
+- Stay true
+
+Added Quests:
+- Mass Destruction Bosses
+- Artifacts and Relics
+- Mystical Agriculture
+
+Renamed Quests:
+- Basic Storage renamed Storage (it will be added in Ver04)
+- Mowzie's Mobs renamed Mowzie's (it will be added in Ver04)
+
+Removed Quests:
+- Chipped
+- Farmer's Delight
+- Oh Biomes We've Gone
+- Simply Swords
+- (Temporarily removed Applied Energistics 2)
+- (Temporarily removed Occultism)
+- (Temporarily removed Better Archeology)
+- (Temporarily removed Alex's Adventure)
+- (Temporarily removed Aquaculture)
+- (Temporarily removed Fantasy Sets)
+- (Temporarily removed T.O Magic n' Extras)
