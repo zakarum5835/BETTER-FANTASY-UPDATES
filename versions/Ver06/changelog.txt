@@ -32,7 +32,6 @@ Added Mods:
 - FTB Ranks
 - Distraction Free Recipes (EMI / REI / JEI)
 - Friends&Foes (Forge/NeoForge)
-- All The Tweaks
 - All the Wizard Gear
 - FTB Ultimine (Forge)
 - Shoulder Surfing Ultimine
