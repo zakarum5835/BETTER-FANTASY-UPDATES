@@ -40,6 +40,7 @@ Added Mods:
 Removed Mods:
 - Enderite CJ Edition Mod (no longer needed)
 - FTB Quests Optomizer (no longer needed)
+- Deep Void Curious (removed project)
 
 Added Quests:
 - Legendary Monsters: The Obliterator Quest
