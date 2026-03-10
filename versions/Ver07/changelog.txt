@@ -69,4 +69,4 @@ Added Quests:
 - AllTheModium (Added AllTheModium book as reward in the first questline)
 
 Added Resource Pack:
-- Just Fancy Torches
+- RPG Sound Button by zakarum5835
