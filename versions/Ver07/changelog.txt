@@ -1,0 +1,75 @@
+A New Update has been released! - Ver07!
+
+NEW MENUSCREEN - LOADING SCREEN - EVERYTHING HAS BEEN RECREATED!
+New buttons, new textures, new screens, everything has been recreated. (Do not set up GUI Scale at x4/Auto)
+
+Fixes and Changes:
+- Updated 27 Mods
+- Fixed Essential Social Text (was bugged sorry)
+- Added Discord Status Game when you play Better Fantasy
+- Fixed Roll command (Key is R) (Combat Roll)
+- Disabled Roll command (Bosses'Rise)
+- Fixed Spell Wheel Hold command (key is X)
+- Removed Modname in Jade box when you look a block/item (Jade)
+- Fixed Every Mob textures (Fresh Animations)
+- Changed New Waypoint Key (key is N)
+- Removed Combat Roll due Bosses'Rise Roll Ability (now is better)
+- Modified Task for questline Pink! Mystical Pink! (Mystical Agriculture)
+- Aether Chapter Questline moved to Mid-Game Group
+- You can Reset your Class by getting again the Combat Manual Style (Dungeons and Combat)
+- You can see every BetterEnd's recipes, Eternal Crystal, Crystalite Set and Enchanted Membrane
+
+Added Mods:
+- Client Sort
+- Nether Portal Fix
+- Structory
+- Boss Checklist
+- Boss Checklist Addon
+- Diet (Fabric/Forge/Quilt)
+- CraftPresence
+- Curious Lanterns
+- ExtraSounds Next
+- Harvest with ease
+- Bosses'Rise (Forge/NeoForge)
+- Item Obliterator (Modpack Utils Series)
+- CrashExploitFixer
+- Create Better FPS
+- Create Cobblestone
+- FastFurnace
+- FastSuite
+- Flerovium
+- Iris & Oculus Flywheel Compat
+- Mobtimizations - Entity Performance Fixes
+- Particle Core
+- ServerCore
+- Temporal API
+- Create: Ultimate Factory
+- Loot Journal (Forge)
+- NaN Health Fixer
+- Overflowing Bars
+- Sky Villages [Forge]
+- Too Many Bows
+- Presence Footsteps
+- Hazen 'N Stuff
+- Illage and Spell-age: Iron's Spells Addon
+- Dynamic Crosshair
+
+Removed Mods:
+- Better Chunk Loading
+- Leaky Item Lag Fix [Forge/Fabric]
+- Pick Up Notifier
+- FTB Chunks
+- [Let's Do] API (accidentally added in the previous version, sorry)
+
+Added Quests:
+- Dungeons and Combat
+- Bosses'Rise
+- Ars Nouveau
+- Iron's Spellbooks
+- Ice and Fire
+- Alex's Stories (it will be added soon)
+- Storage (Added a new Quest)
+- AllTheModium (Added AllTheModium book as reward in the first questline)
+
+Added Resource Pack:
+- Just Fancy Torches
