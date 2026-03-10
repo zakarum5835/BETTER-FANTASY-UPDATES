@@ -1,19 +1,16 @@
-A New Update has been released! - Ver07!
-
 NEW MENUSCREEN - LOADING SCREEN - EVERYTHING HAS BEEN RECREATED!
 New buttons, new textures, new screens, everything has been recreated. (Do not set up GUI Scale at x4/Auto)
 
 Fixes and Changes:
 - Updated 27 Mods
 - Fixed Essential Social Text (was bugged sorry)
-- Added Discord Status Game when you play Better Fantasy
+- Added Discord Status Game when you play Better Fantasy: Overture
 - Fixed Roll command (Key is R) (Combat Roll)
 - Disabled Roll command (Bosses'Rise)
 - Fixed Spell Wheel Hold command (key is X)
 - Removed Modname in Jade box when you look a block/item (Jade)
 - Fixed Every Mob textures (Fresh Animations)
 - Changed New Waypoint Key (key is N)
-- Removed Combat Roll due Bosses'Rise Roll Ability (now is better)
 - Modified Task for questline Pink! Mystical Pink! (Mystical Agriculture)
 - Aether Chapter Questline moved to Mid-Game Group
 - You can Reset your Class by getting again the Combat Manual Style (Dungeons and Combat)
