@@ -2,7 +2,7 @@ NEW MENUSCREEN - LOADING SCREEN - EVERYTHING HAS BEEN RECREATED!
 New buttons, new textures, new screens, everything has been recreated. (Do not set up GUI Scale at x4/Auto)
 
 Fixes and Changes:
-- Updated 27 Mods
+- Updated 28 Mods
 - Fixed Essential Social Text (was bugged sorry)
 - Added Discord Status Game when you play Better Fantasy: Overture
 - Fixed Roll command (Key is R) (Combat Roll)
