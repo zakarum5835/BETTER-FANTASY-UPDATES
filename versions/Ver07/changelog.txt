@@ -11,10 +11,11 @@ Fixes and Changes:
 - Removed Modname in Jade box when you look a block/item (Jade)
 - Fixed Every Mob textures (Fresh Animations)
 - Changed New Waypoint Key (key is N)
-- Modified Task for questline Pink! Mystical Pink! (Mystical Agriculture)
+- Modified Task "Pink! Mystical Pink!" (Mystical Agriculture)
 - Aether Chapter Questline moved to Mid-Game Group
 - You can Reset your Class by getting again the Combat Manual Style (Dungeons and Combat)
 - You can see every BetterEnd's recipes, Eternal Crystal, Crystalite Set and Enchanted Membrane
+- Created a Custom Resource Pack loaded with Paxi, new FTB Quests Theme
 
 Added Mods:
 - Client Sort
@@ -64,9 +65,11 @@ Added Quests:
 - Ars Nouveau
 - Iron's Spellbooks
 - Ice and Fire
+- Welcome (Updated)
 - Alex's Stories (it will be added soon)
 - Storage (Added a new Quest)
 - AllTheModium (Added AllTheModium book as reward in the first questline)
 
 Added Resource Pack:
 - RPG Sound Button by zakarum5835
+- Made a Custom Resource Pack for FTB Quests (Paxi)
