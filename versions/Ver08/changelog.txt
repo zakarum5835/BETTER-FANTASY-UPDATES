@@ -1,0 +1,69 @@
+A New Update has been released! - Ver08!
+
+STORYLINE UPDATE!
+The Full Storyline for this Modpack has been established.
+
+Fixes:
+- Fixed Nether Star Drop (it can be obtained by killing the Wither)
+- Fixed Loot Chests for BetterEnd's Crashed Ships
+- Fixed Mixed/Bugged Structures spawn in the same point
+- Replaced Presence Footsteps (Fabric Version) with Presence Footsteps (Forge)
+
+Changes:
+- Updated 34 Mods
+- Added new button in Menuscreen about Wabbanode Server Hosting
+- Added a Welcome Screen when you join a world for the first time
+- Renamed Storage Questline to Simple Storage
+- Changed Smithing Transform Recipe for Ignitium Armor Set
+- Changed Smithing Transform Recipe for AllTheModium Armor Set
+- Changed Smithing Transform Recipe for Cursium Armor Set
+- Created Smithing Transform Recipe for The Incinerator 
+- Changed Smithing Transform Recipe for every Allthemodium Tools 
+- Changed Smithing Transform Recipe for Dark Metal Armor Set
+- Removed Old Smithing Transform Recipe for Dark Metal Armor Set
+- Removed Crafting Recipe for every Allthemodium Tools
+- Removed Old Crafting Recipe for The Incinerator
+- Enabled "Show Arms" in Better Combat Mod
+- Ignited Berserkers can now spawn in Better Fortresses after defeating Ignis
+- Added Crafting Recipe for Gilded Netherite Shield
+- Changed Crafting Recipe for every Diamond Tools
+- Changed Crafting Recipe for Diamond Armor Set
+- Smithing Template Warden Upgrade can only be obtained defeating Warden
+- Removed Smithing Template Warden Upgrade in Loot Chests
+
+Added Mods:
+- LootJS: KubeJS Addon
+- Tom's Simple Storage Mod
+- Wither Spawn Fix W.S.A. Compatible
+- Welcome Screen (Modpack Utils Series)
+- Immersive Damage Indicators
+- Immersive Messages API
+- BetterEnd Crashed Ships Tweaks
+- Sparse Structures
+- Cataclysm x YUNG's Better Nether Fortresses Compat
+- Presence Footsteps (Forge)
+
+Removed Mods:
+- AAA Particles (accidentally added in the previous version, sorry)
+- AAA Particles World (accidentally added in the previous version, sorry)
+- Obscure Tooltips Fix
+- BE Style Wither [NeoForge/Forge/Fabric]
+- First Person Model (no longer needed)
+- Presence Footsteps (Fabric)
+
+Added Quests:
+- Overture: Storyline
+- Simple Storage (Tom's Simple Storage Mod)
+- Create (Finished)
+- Aquamirae
+- Born In Chaos
+- Cataclysm
+- Otherside (Added a new Quest)
+- The Beginning (Introduced Diamond Termite Shard) (Modified Some Quests Description)
+- ??!?!?!?!?!?!??! (Upcoming in Ver09)
+
+Added Shaders:
+- Kute Shaders
+
+Removed Shaders:
+- Visual Vibrance
