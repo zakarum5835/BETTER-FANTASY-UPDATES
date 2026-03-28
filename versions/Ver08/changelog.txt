@@ -1,5 +1,3 @@
-A New Update has been released! - Ver08!
-
 STORYLINE UPDATE!
 The Full Storyline for this Modpack has been established.
 
@@ -10,7 +8,7 @@ Fixes:
 - Replaced Presence Footsteps (Fabric Version) with Presence Footsteps (Forge)
 
 Changes:
-- Updated 34 Mods
+- Updated 44 Mods
 - Added new button in Menuscreen about Wabbanode Server Hosting
 - Added a Welcome Screen when you join a world for the first time
 - Renamed Storage Questline to Simple Storage
@@ -30,6 +28,7 @@ Changes:
 - Changed Crafting Recipe for Diamond Armor Set
 - Smithing Template Warden Upgrade can only be obtained defeating Warden
 - Removed Smithing Template Warden Upgrade in Loot Chests
+- Enabled Quest Book When you create a world
 
 Added Mods:
 - LootJS: KubeJS Addon
@@ -42,6 +41,8 @@ Added Mods:
 - Sparse Structures
 - Cataclysm x YUNG's Better Nether Fortresses Compat
 - Presence Footsteps (Forge)
+- Enhanced Boss Bars
+- FirstJoin
 
 Removed Mods:
 - AAA Particles (accidentally added in the previous version, sorry)
@@ -61,6 +62,9 @@ Added Quests:
 - Otherside (Added a new Quest)
 - The Beginning (Introduced Diamond Termite Shard) (Modified Some Quests Description)
 - ??!?!?!?!?!?!??! (Upcoming in Ver09)
+
+Removed Resource Packs:
+- Enhanced Boss Bars
 
 Added Shaders:
 - Kute Shaders
