@@ -29,6 +29,7 @@ Changes:
 - Smithing Template Warden Upgrade can only be obtained defeating Warden
 - Removed Smithing Template Warden Upgrade in Loot Chests
 - Enabled Quest Book When you create a world
+- Removed Combat Style Manual (no longer needed)
 
 Added Mods:
 - LootJS: KubeJS Addon
@@ -43,6 +44,7 @@ Added Mods:
 - Presence Footsteps (Forge)
 - Enhanced Boss Bars
 - FirstJoin
+- Starter Kit
 
 Removed Mods:
 - AAA Particles (accidentally added in the previous version, sorry)
