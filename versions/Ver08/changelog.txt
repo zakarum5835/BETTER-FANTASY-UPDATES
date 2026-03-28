@@ -44,7 +44,6 @@ Added Mods:
 - Presence Footsteps (Forge)
 - Enhanced Boss Bars
 - FirstJoin
-- Starter Kit
 
 Removed Mods:
 - AAA Particles (accidentally added in the previous version, sorry)
