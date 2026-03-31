@@ -1,0 +1,26 @@
+A New Update has been released! - Ver09!
+
+Some Important Fixes and Changes!
+
+Fixes:
+- Fixed the Crash when you wear some armors from Dungeons and Combat
+- Removed Copied Armor Sets from Dungeons and Combat, Ice and Fire, Aquaculture 2 and etc.
+- Removed Copied Armor Sets from Dungeons and Combat, Vanilla Armors
+
+Changes:
+- Updated 13 Mods
+- Removed Bugged Weapons Recipes for Dungeons and Combat (no longer available)
+- Removed Uncrafting Table from JEI (no longer available)
+- Removed Armor of the Ages (no longer needed)
+- Menu Song is a little bit lower than before
+- Removed Mine Cells (no needed for the Storyline)
+- Removed oωo (owo-lib) (library mod for Mine Cells)
+- Removed HT's TreeChop mod (Use FTB Ultimine)
+
+Added Mods:
+- Polymorph (Fabric/Forge/Quilt)
+- Polymorphic Energistics
+- Falling Tree
+
+Added Quests:
+- Occultism
