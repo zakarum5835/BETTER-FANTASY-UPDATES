@@ -11,6 +11,7 @@ Changes and Fixes:
 - Removed Cataclysm: Spellbooks & BetterCombat - Compatibility
 - Removed Cataclysm: Spellbooks (it doens't support the last version of Cataclysm)
 - Removed Cataclysm & BetterCombat - Compatibility
+- Removed Simple Custom Early Loading (useless mod)
 - Fixed Ignis Spawn in Burning Arena
 - Changed Xaero's Minimap position
 
