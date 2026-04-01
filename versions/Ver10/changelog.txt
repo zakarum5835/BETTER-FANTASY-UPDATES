@@ -1,0 +1,18 @@
+Small Fixes and Updated Mods
+
+Updated Mods: 
+- L_Ender 's Cataclysm
+- Sophisticated Backpacks
+- Better Combat Particle
+- [EMF] Entity Model Features [Fabric & Forge]
+
+Changes and Fixes:
+- Removed T.O Magic 'n Extras - Iron's Spells Addon (causes crash)
+- Removed Cataclysm: Spellbooks & BetterCombat - Compatibility
+- Removed Cataclysm: Spellbooks (it doens't support the last version of Cataclysm)
+- Removed Cataclysm & BetterCombat - Compatibility
+- Fixed Ignis Spawn in Burning Arena
+- Changed Xaero's Minimap position
+
+Added Quests:
+- Alex's Stories
