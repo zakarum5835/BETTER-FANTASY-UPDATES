@@ -1,0 +1,15 @@
+Wither Storm Update!
+
+Updated Mods:
+- Skin Layers 3D
+- Sophisticated Core
+
+Fix and Change:
+- Fixed all structures will be prevented from overlapping each other
+- Changed Acceleration Speed Phase for Wither Storm
+
+Added Quest:
+- AND..... NOW?
+The Questline can be unlocked when you complete "Home... Sweet, Home" Quest from The Deep Void.
+
+Always make a backup of your world.
