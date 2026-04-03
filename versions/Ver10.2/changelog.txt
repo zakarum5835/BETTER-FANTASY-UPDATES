@@ -1,0 +1,24 @@
+GODLY UPDATE!
+Every Quest line for this Modpack are finally done!
+
+Updated Mods:
+- Oh The Trees You'll Grow
+- Fragmentum (Forge)
+- Boss Checklist
+- Boss Checklist Addon
+- Loot Journal: Pickup Notifier (Forge)
+- L_Ender 's Cataclysm
+- Sophisticated Core
+
+Fix and Changes:
+- Created New Recipe for Creative Essence (Mystical Agradditions)
+- Created New Recipes for every Alloy AllTheModium Ingots (Botania & MythicBotany)
+- Created New Recipes for every Alloy AllTheModium Tools (Botania & MythicBotany)
+- Fixed G key when you want to open AE2 guide 
+- Updated Creative Essence Quest (Mystical Agriculture)
+
+Added Quests:
+- Botania
+- ??!?!?!?!?!?!??!
+
+Always make a backup of your world.
