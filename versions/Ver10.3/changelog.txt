@@ -1,0 +1,41 @@
+NEW TECH MODS!
+Added new tech mods for AE2 (Applied Energistics 2) and small fixes and changes!
+
+Updated Mods:
+- Packet Fixer
+- Etheria
+- BCLib Forge
+- Shoulder Surfing Reloaded
+- Sophisticated Core
+- FTB Quests (NeoForge)
+- Artifacts
+- Chat Heads
+- InsaneLib
+- FTB Ultimine (Forge)
+- Boss Checklist Addon
+- Supplementaries
+
+Changes:
+- Modified some Quests description
+- You can see Mob Drops from JEI
+- Added new Seeds Quests in Mystical Agriculture Questline
+- Downgraded Ignis Life stealer ability (more easy)
+- Removed Enhanced AI
+
+Added Mods:
+- Powah! (Rearchitected)
+- Mekanism
+- Applied Mekanistics
+- Just Enough Mekanism Multiblocks
+- Mekanism Generators
+- Just Enough Resources (JER)
+- Ars Creo
+- Applied Botanics Addon
+- AE2 Import Export Card
+- AE2 Things [Forge]
+
+Added Quests:
+- P-P-Powah!
+- Mekanism
+- The Beginning (Added new Quest)
+- Mystical Agriculture (Added new Quests)
