@@ -1,5 +1,5 @@
 NEW TECH MODS!
-Added new tech mods for AE2 (Applied Energistics 2) and small fixes and changes!
+Added new tech mods for AE2! Some fixes and changes
 
 Updated Mods:
 - Packet Fixer
@@ -12,15 +12,18 @@ Updated Mods:
 - Chat Heads
 - InsaneLib
 - FTB Ultimine (Forge)
-- Boss Checklist Addon
 - Supplementaries
+- Sophisticated Backpacks
 
-Changes:
+Fixes and Changes:
 - Modified some Quests description
 - You can see Mob Drops from JEI
 - Added new Seeds Quests in Mystical Agriculture Questline
 - Downgraded Ignis Life stealer ability (more easy)
 - Removed Enhanced AI
+- Removed Boss Checklist & Boss Checklist Addon (indeed mods)
+- Removed Handemic, Spirit's Chosen, Venomous Reborn from Illage and Spillage (causes crash)
+- Added every Bosses'Rise to Skip Tick Culling (EntityCulling)
 
 Added Mods:
 - Powah! (Rearchitected)
