@@ -1,0 +1,14 @@
+A New Update has been released! - Ver10.4
+
+Small Changes and Updated Mods
+
+Updated Mods:
+- Aquamirae (Forge)
+- Sophisticated Core
+- Explorer's Compass
+- Nature's Compass
+
+Change:
+- Added a new underwater creature from Aquamirae
+
+Always make a backup of your world.
