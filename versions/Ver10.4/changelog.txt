@@ -7,6 +7,7 @@ Updated Mods:
 - Sophisticated Core
 - Explorer's Compass
 - Nature's Compass
+- Etheria
 
 Change:
 - Added a new underwater creature from Aquamirae
