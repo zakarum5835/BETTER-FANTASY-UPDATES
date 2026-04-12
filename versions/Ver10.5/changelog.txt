@@ -1,0 +1,23 @@
+A New Update has been released! - Ver10.5
+
+New Recipes and Changes
+
+Updated Mods:
+- Cupboard, Aquamirae (Forge)
+- Not Enough Animations, Sophisticated Core
+- Collective,  L_Ender 's Cataclysm
+- Structure Essentials, Aquamirae (Forge)
+- Crash Assistant, Iron's Lib
+- Sophisticated Backpacks, AzureLib
+- ModernFix, Iron's Spells 'n Spellbooks
+
+Changes:
+- Created a new recipe for Diamond Termite Shard (Create)
+- Changed Creative Essence recipe (Mystical Agriculture)
+- Fixed Diamond Armor Set Quest (The Beginning)
+
+Added Mods:
+- Mekanism Tools
+- KubeJS Create
+
+Always make a backup of your world.
