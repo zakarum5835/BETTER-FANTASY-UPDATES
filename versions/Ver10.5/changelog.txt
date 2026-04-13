@@ -6,10 +6,10 @@ Updated Mods:
 - Cupboard, Aquamirae (Forge)
 - Not Enough Animations, Sophisticated Core
 - Collective,  L_Ender 's Cataclysm
-- Structure Essentials, Aquamirae (Forge)
+- Structure Essentials, Iron's Spells 'n Spellbooks
 - Crash Assistant, Iron's Lib
 - Sophisticated Backpacks, AzureLib
-- ModernFix, Iron's Spells 'n Spellbooks
+- ModernFix
 
 Changes:
 - Created a new recipe for Diamond Termite Shard (Create)
