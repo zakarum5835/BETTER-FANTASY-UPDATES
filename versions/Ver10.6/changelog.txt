@@ -1,0 +1,17 @@
+Updated almost 50 mods and some fixes
+
+Changes and Adjustments:
+- Updated Mods
+- Changed Splash Text in menu screen
+- Changed FML Loading Screen
+- Removed Wither: Reincarnated mod (The Wither is more balanced now)
+- Removed Twilight Forest and all of its Addons (Moved to Requiem)
+- You can wear Elytra with any Chestplate
+- Removed ExtraQuests [FTB Quests] (no longer needed)
+- Removed FirstJoin (no longer needed)
+- Removed Shoulder Surfing: Iron's Spells Integration (causes crash while loading the game)
+- Reorganized Cataclysm, Aether Questline
+
+Added Mods:
+- Elytra Slot
+- Ocean's Delight
