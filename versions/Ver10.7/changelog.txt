@@ -1,0 +1,8 @@
+Deep Void Fix
+
+Updated Mods and Small Fix:
+- Updated Mods
+- Players will no longer spawn in the Deep Void once they die for the first time.
+- Removed AllTheLeaks (unnecessary mod)
+
+Always make a backup of your world
