@@ -1,0 +1,12 @@
+Fixes, Changes and Stable version!
+
+Changes and Fixes:
+- Updated mods
+- Main Menu doesn't have bugs anymore
+- Changed SplashText to Promote Requiem
+- Removed MidnightLib Config button
+- Removed Create button
+- Backported ModernFix 5.27.44 to 5.26.2
+- Backported FastSuite 5.1.2 to 5.1.0
+
+Always make a backup of your world
