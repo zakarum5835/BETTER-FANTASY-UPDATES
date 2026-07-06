@@ -1,0 +1,117 @@
+MAJOR UPDATE! - Epic Fight x AllTheModium!
+New Content, Improved Performance and Stable Version!
+
+WARNING: If you wanna play with new shaders, remove the old ones before update to Ver11
+
+Changes and Fixes:
+- Optimized Config and KubeJS folder
+- Updated Mods
+- Improved Performance
+- Improved Shaders
+- Improved Overworld, Nether and Deep Void gen
+- Revamped the entire Questline
+- Removed Mutant Monsters Questline
+- Removed When Dungeons Arise Questline
+- Removed When Dungeons Arise - Seven Seas
+- Removed When Dungeons Arise - Forge!
+- Removed Certain Questing Additions
+- Removed Better Biome Reblend
+- Removed Continuity (Low Performance)
+- Removed Stay True (Low Performance)
+- Removed Diet (Moved to Requiem)
+- Removed Neko's Enchanted Books
+- Removed CraftTweaker
+- Removed Quests Additions (Forge)
+- Removed Sound​s (Conflict with other Sound mods)
+- Removed Sparse Structures (Replaced)
+- Removed [ESF] Entity Sound Features
+- Removed Resource Pack Overrides
+- Removed Skin Layers 3D
+- Removed Serious Player Animations
+- Removed every Pufferfish's mods
+- Removed every Better Combat mods
+- Removed every End Eyes from Loot Chests (End Remastered)
+- Removed Unobtanium Smithing Template from Loot Chests
+- Removed GUI Retextures
+- Removed GUI Retextures Compatibility
+- Removed Eclectic Trove (Legendary Tooltips)
+- Default World Type is BetterX
+- Created a new crafting recipe for Spooky Ring
+- Created a new crafting recipe for Smithing Unobtainium Template
+- Created a new smithing recipe for Allthemodium Sword
+- Created a new smithing recipe for Yamato
+- Created a new smithing recipe for Duskfire Armor Set
+- Recreated Creative Essence Recipe
+- Configured Default Options without exporting options.txt file
+- Configured Crash Assistant
+- All AE2 Meteorites spawn in water to save world gen
+- Disabled Roll Command from Bosses'Rise
+- Disabled Ice and Fire old structures
+- Disabled Third Person Back and Front
+- Mobs doesn't drop Inferium Essence anymore
+- Moved Jade box under Xaero's Minimap
+- Fixed Tongbi, the Sculptor Structure wasn't generate properly
+- Skeleton Dragons will not generate anymore around the Overworld
+- Backported Entity Model Features 3.0.17 to 2.4.1
+- Backported Entity Texture Features 7.0.13 to 6.2.9
+- Backported CreativeCore 2.12.38 to 2.12.36
+- Increased Wither's Health and Attacks
+- Increased Health and Attacks for certain Bosses Rise
+- Increased Health and Attacks of every Cataclysm Bosses
+- Increased Health and Attacks of every Cataclysm Mini Bosses
+- Increased Health and Attacks of every Mowzie's Bosses
+- Increased Health and Attacks of every Bosses of Mass Destruction
+- Increased Health and Attacks of every Deep Void Mobs
+- Temporarily replaced Corpse mods with Gravestone mods
+
+New Mods:
+- Epic Fight
+- Epic Fight Avalon
+- Epic Fight Nightfall
+- Epic Fight Invincible Lib
+- Epic Fight x Iron's Spells Enhanced Animations
+- Epic Fight Mod & Other Mods Weapons Compabilities
+- [Official] Epic ParCool
+- Epic Fight Skill Tree
+- ParCool!
+- Stoneworks
+- Default World Type [Forge]
+- Default Options
+- Weather Refined
+- Fusion (Connected Textures)
+- Create Alex's Caves Compat
+- TACT Tiny Alex's Caves Tweaks
+- Integrated Dungeons and Structures
+- Integrated API
+- Every Compat (Wood Good)
+- Charm of Undying (Fabric/Forge/Quilt)
+- Custom Starter Gear
+- Redirected
+- Tom's Performant Storage
+- Sparse Structures Reforged
+- GraveStone Mod
+- Gravestone x Curios API Compat
+- Max Health Fix
+- In Control!
+- Ethecore
+- Quark
+
+New Quests:
+- YAMATOOOOOO
+- Chapter I: The Beginning
+- Chapter II: Preparing
+- Chapter III: The Void's Ultimate Gift
+- Chapter IV: COME AND PLAY WITH ME!
+- Chapter V: ?!?!?!?!?!?!!?!?!
+
+New Resource Packs:
+- Blinking Ender Eyes
+- Alex's Titles (Alex's Caves and Traveler's Titles compatibility)
+- Alex's Caves X Woodworks/FD
+- Mandala's GUI - Dark Mode
+- Mandala's GUI - Add-Ons
+- Epic Fight Plus Pierced Animations
+- Epic Fight x Iron's Spells Armor Fix
+- EpicFight model compats
+
+Always make a backup of your world
