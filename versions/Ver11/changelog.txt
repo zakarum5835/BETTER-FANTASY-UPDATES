@@ -1,40 +1,34 @@
 MAJOR UPDATE! - Epic Fight x AllTheModium!
 New Content, Improved Performance and Stable Version!
 
-WARNING: If you wanna play with new shaders, remove the old ones before update to Ver11
+WARNING: If you wanna play with new shaders, remove the old ones and clear your inventory before update to Ver11.
 
 Changes and Fixes:
 - Optimized Config and KubeJS folder
 - Updated Mods
-- Improved Performance
-- Improved Shaders
+- Improved Performance and Shaders
 - Improved Overworld, Nether and Deep Void gen
 - Revamped the entire Questline
 - Removed Mutant Monsters Questline
-- Removed When Dungeons Arise Questline
-- Removed When Dungeons Arise - Seven Seas
-- Removed When Dungeons Arise - Forge!
-- Removed Certain Questing Additions
-- Removed Better Biome Reblend
-- Removed Continuity (Low Performance)
-- Removed Stay True (Low Performance)
-- Removed Diet (Moved to Requiem)
+- Removed some Quests mods
+- Removed Better Biome Reblend, Continuity, Stay True
+- Removed Diet
 - Removed Neko's Enchanted Books
 - Removed CraftTweaker
-- Removed Quests Additions (Forge)
-- Removed Sound​s (Conflict with other Sound mods)
-- Removed Sparse Structures (Replaced)
+- Removed Sound​s (Conflict with some Sound mods)
+- Removed Sparse Structures
 - Removed [ESF] Entity Sound Features
 - Removed Resource Pack Overrides
 - Removed Skin Layers 3D
 - Removed Serious Player Animations
+- Removed every When Dungeons Arise Mods
 - Removed every Pufferfish's mods
 - Removed every Better Combat mods
-- Removed every End Eyes from Loot Chests (End Remastered)
+- Removed every End Eyes from Loot Chests
 - Removed Unobtanium Smithing Template from Loot Chests
 - Removed GUI Retextures
 - Removed GUI Retextures Compatibility
-- Removed Eclectic Trove (Legendary Tooltips)
+- Removed Eclectic Trove
 - Default World Type is BetterX
 - Created a new crafting recipe for Spooky Ring
 - Created a new crafting recipe for Smithing Unobtainium Template
@@ -57,8 +51,7 @@ Changes and Fixes:
 - Backported CreativeCore 2.12.38 to 2.12.36
 - Increased Wither's Health and Attacks
 - Increased Health and Attacks for certain Bosses Rise
-- Increased Health and Attacks of every Cataclysm Bosses
-- Increased Health and Attacks of every Cataclysm Mini Bosses
+- Increased Health and Attacks of every Cataclysm Mini and Bosses
 - Increased Health and Attacks of every Mowzie's Bosses
 - Increased Health and Attacks of every Bosses of Mass Destruction
 - Increased Health and Attacks of every Deep Void Mobs
@@ -71,7 +64,7 @@ New Mods:
 - Epic Fight Invincible Lib
 - Epic Fight x Iron's Spells Enhanced Animations
 - Epic Fight Mod & Other Mods Weapons Compabilities
-- [Official] Epic ParCool
+- Epic ParCool
 - Epic Fight Skill Tree
 - ParCool!
 - Stoneworks
@@ -84,7 +77,7 @@ New Mods:
 - Integrated Dungeons and Structures
 - Integrated API
 - Every Compat (Wood Good)
-- Charm of Undying (Fabric/Forge/Quilt)
+- Charm of Undying
 - Custom Starter Gear
 - Redirected
 - Tom's Performant Storage
@@ -106,7 +99,7 @@ New Quests:
 
 New Resource Packs:
 - Blinking Ender Eyes
-- Alex's Titles (Alex's Caves and Traveler's Titles compatibility)
+- Alex's Titles
 - Alex's Caves X Woodworks/FD
 - Mandala's GUI - Dark Mode
 - Mandala's GUI - Add-Ons
