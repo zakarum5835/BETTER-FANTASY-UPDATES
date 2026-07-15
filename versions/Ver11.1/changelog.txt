@@ -1,0 +1,30 @@
+New Changes, Small Fixes, Reducing Mobs Spawn Rate and adding new mods while going for more stability.
+
+Changes and Fixes:
+- Updated Mods
+- Fixed a quest in Ars Nouveau Questline
+- Fixed a quest in Chapter I: The Beginning Questline
+- Improved BetterEnd Questline
+- Renamed Chapter I: The Beginning Questline
+- Removed every Parcool Mods (no longer needed)
+- Reduced certain Legendary Creatures mob spawn rate
+- REduced certain Ice and Fire mob spawn rate
+- Added Compatibility between Epic Fight with Cataclysm, Ice and Fire Weapons and many mods
+- Added 3 new Epic Fight Skill Trees
+- Created a crafting recipe for Ability Stone
+
+New Mods:
+- GeckolibBetterFPS
+- SLM Epic Fight
+- P1nero's Epic X Cataclysm
+- Epic Fight Sword Soaring
+- EpicFight Resurrection
+- Epic Fight Better lock on
+- Epic Fight x Better Lock On: Movement & Camera Fixes
+- Epic Fight Simply Swords EpicFied 2
+- Epic Fight EDP (Extended Datapacks)
+- SimplySwords Epicfied Core
+- Open Parties and Claims
+- Weapons of Miracles epic fight
+
+Always make a backup of your world
