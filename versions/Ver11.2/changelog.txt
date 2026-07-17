@@ -1,0 +1,12 @@
+Certain Vanilla mobs were glitched.
+
+Changes and New Mods:
+- Removed Fusion (Connected Textures)
+- Removed Boss Refreshed
+- Removed Occultism
+- Removed Occultism Questline
+- Removed Ars Ocultas
+- Added Epic Fight Super Warden
+- Added Epic Fight Super Golem
+
+Always make a backup of your world
