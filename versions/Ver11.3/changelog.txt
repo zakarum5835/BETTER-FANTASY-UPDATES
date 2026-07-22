@@ -1,0 +1,30 @@
+Some fixes and adding new performance mods while going for more stability.
+
+Fixes and Changes:
+- Improved Performance
+- Improved a Quest in the First Chapter Questline
+- Fixed a Quest in Ars Nouveau Questline
+- Fixed Epic Fight issue when you try breaking any blocks with an empty hand
+- Fixed Etheria Skill Tree crash when you try to unlock new skills
+- Removed Connectivity
+- Removed Flerovium
+- Removed Sodium/Embeddium Extras
+- Removed Dynamic FPS (Replaced)
+
+New Mods:
+- AllTheLeaks (Memory Leak Fix)
+- DEUF Duplicate Entity UUID Fix
+- Better chunk loading
+- Radium Reforged
+- Fast Item Frames
+- BiomeSpy
+- RestMode
+- Starlight (Forge)
+- Structure Layout Optimizer
+- Cerulean
+- Sodium/Embeddium Options Mod Compat
+- Despawn Tweaks
+- Create Copycats+
+- Serene Seasons
+
+Always make a backup of your world
