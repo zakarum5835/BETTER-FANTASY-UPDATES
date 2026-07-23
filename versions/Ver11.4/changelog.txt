@@ -1,0 +1,6 @@
+Removed Starlight (Forge) mod was causing crashes with Create mods.
+
+Change:
+- Removed Starlight (Forge)
+
+Always make a backup of your world
